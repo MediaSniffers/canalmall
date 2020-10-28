@@ -10258,3 +10258,10 @@ img{
 .comment-form button{
 	cursor:pointer;
 }
+.sticky-header .logo {
+	padding-top: 18px;
+}
+.hero-banner {
+	height: 850px;
+	background-size: contain;
+}
