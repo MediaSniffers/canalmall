@@ -10264,4 +10264,5 @@ img{
 .hero-banner {
 	height: 850px;
 	background-size: contain;
+	text-align: center;
 }
