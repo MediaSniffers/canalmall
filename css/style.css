@@ -119,6 +119,7 @@ body {
 	background:#ffffff;
 	-webkit-font-smoothing: antialiased;
 	-moz-font-smoothing: antialiased;
+	letter-spacing: 1px;
 }
 
 .bordered-layout .page-wrapper{
@@ -151,6 +152,7 @@ h1,h2,h3,h4,h5,h6 {
 h1{
 	font-size:65px;
 	line-height: 101px;
+	letter-spacing: 8px;
 }
 
 h2{
@@ -183,7 +185,7 @@ textarea{
 
 p{
 	position:relative;
-	line-height:1.8em;	
+	line-height:22px;	
 	
 }
 
@@ -10266,4 +10268,12 @@ img{
 	height: 850px;
 	background-size: contain;
 	text-align: center;
+	padding-top: 190px;
+}
+.title-box h2 {
+	font-size: 15px;
+}
+.title-box h3 {
+	font-size: 32px;
+	line-height: 43px;
 }
