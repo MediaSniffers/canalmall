@@ -10277,3 +10277,11 @@ img{
 	font-size: 32px;
 	line-height: 43px;
 }
+.branded-section .image {
+	width: 227px;
+    height: 147px;
+	background: white;
+	padding-right: 45px;
+    padding-left: 45px;
+    padding-top: 20px;
+}
